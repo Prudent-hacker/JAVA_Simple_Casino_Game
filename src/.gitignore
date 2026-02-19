@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# Game Data
+save.txt
+transactions.csv
+
+# IDE specific files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
